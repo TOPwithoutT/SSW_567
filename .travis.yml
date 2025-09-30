@@ -1,7 +1,0 @@
-language: python
-python:
-  - "3.11"
-install:
-  - pip install -r GitHubApi567-hw4a/requirements.txt
-script:
-  - pytest -q GitHubApi567-hw4a/tests

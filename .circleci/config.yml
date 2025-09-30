@@ -7,10 +7,9 @@ jobs:
       - checkout
       - run: python -m pip install --upgrade pip
       - run: pip install -r GitHubApi567-hw4a/requirements.txt
-      - - run:
-              cd GitHubApi567-hw4a
-              pytest -q
-
+      - run: |
+          cd GitHubApi567-hw4a
+          pytest -q
 workflows:
   build_and_test:
     jobs:

@@ -5,5 +5,5 @@ List a user's repos and the number of commits for each.
 ## Usage
 python -m src <github_user>
 
-[![Build Status](https://travis-ci.com/TOPwithoutT/SSW_567.svg?branch=HW04c_Mocking)](https://travis-ci.com/TOPwithoutT/SSW_567)
+[![Build Status](https://app.travis-ci.com/TOPwithoutT/SSW_567.svg?token=yYps2TsqrPymSXGDzT68&branch=HW04a_Mocking)](https://app.travis-ci.com/TOPwithoutT/SSW_567)
 
